@@ -108,7 +108,8 @@
 
 ### Gérer les personnalités
 
-
+- S'assurer d'inclure le timide
+- 
 
 
 
