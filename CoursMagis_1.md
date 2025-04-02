@@ -110,7 +110,16 @@
 
 - S'assurer d'inclure le timide
 - Le bavard, l'interpeller et essayer de le remobiliser sur le sujet. Le recadrer, ce n'est pas le moment ni l'objectif de la réunion
-- 
+- etc.
+
+### L'écoute active
+
+L'écoute active permet de se centrer sur la personne et sur 3 types d'informations :
+
+- Les faits : ce qui a été vu ou entendu et peut être vérifié
+- L'opinion : ce qui a été pensé, réfléchi, jugé
+- L'émotion : ce qui a été ressenti et éprouvé
+
 
 
 
