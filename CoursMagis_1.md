@@ -120,7 +120,13 @@ L'écoute active permet de se centrer sur la personne et sur 3 types d'informati
 - L'opinion : ce qui a été pensé, réfléchi, jugé
 - L'émotion : ce qui a été ressenti et éprouvé
 
+### Les techniques et attitudes de l'écoute active
 
+- L'empathie
+- Le questionnement
+- La reformulation
+- Le respect et l'utilisation des temps de silence
+- L'utilisation d'un vocabulaire approprié
 
 
 
