@@ -109,6 +109,7 @@
 ### Gérer les personnalités
 
 - S'assurer d'inclure le timide
+- Le bavard, l'interpeller et essayer de le remobiliser sur le sujet. Le recadrer, ce n'est pas le moment ni l'objectif de la réunion
 - 
 
 
