@@ -88,7 +88,7 @@
 
 ### La conduite d'une réunion :
 
-3 tyles d'animation :
+3 types d'animation :
 
 	1) Autoritaire
 	2) Démocratique
@@ -105,6 +105,27 @@
 	2) Adaptation
 	3) Activation
 	4) Organisation
+
+### Gérer les personnalités
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
