@@ -132,6 +132,40 @@ TOPP : Thème, objetif, plan et présentation
 
 Le processus de médiation : retour sur les faits, identification des intérêts en jeu, recherche de solution et mise en place d'un accord.
 
+La réunion déléguée : gardien du temps pousse décision, distributeur de paroles, scribe, les 5 dernières minutes.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
