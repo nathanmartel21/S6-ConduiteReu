@@ -134,7 +134,15 @@ Le processus de médiation : retour sur les faits, identification des intérêts
 
 La réunion déléguée : gardien du temps pousse décision, distributeur de paroles, scribe, les 5 dernières minutes.
 
+7 clefs pour animer :
 
+- Je suis clair sur mes objectifs
+- Je m'attache à la forme
+- je rythme les échanges, le débat
+- Je donne la parole aux timides, je calme les bavards
+- J'écoute toutes les interventions
+- Je maitrise le temps de réunion prévu
+- J'aboutis à une conclusion et un plan d'action
 
 
 
