@@ -128,6 +128,9 @@ L'écoute active permet de se centrer sur la personne et sur 3 types d'informati
 - Le respect et l'utilisation des temps de silence
 - L'utilisation d'un vocabulaire approprié
 
+TOPP : Thème, objetif, plan et présentation
+
+Le processus de médiation : retour sur les faits, identification des intérêts en jeu, recherche de solution et mise en place d'un accord.
 
 
 
